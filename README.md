@@ -5,3 +5,7 @@
 # Lab2
 
 ![lab2](lab2.gif)
+
+# Lab3
+
+![lab3](lab3.gif)
